@@ -1,5 +1,5 @@
 # Workforce-Acquisition-using-Text-Mining
-Web Scraping - Using Selenium as the automation tool, I created my own dataset by scraping job descriptions from Amazon.jobs. The XPATH technique was used to navigate through the different jobs in all the web pages.
+Web Scraping - Using Selenium as the automation tool, I created my own dataset by scraping job descriptions from **Amazon.jobs**. The XPATH technique was used to navigate through the different jobs in all the web pages.
 
 Data Preprocessing - Performed Natural Language Processing steps to clean the Resume and Job Description datasets.
 
