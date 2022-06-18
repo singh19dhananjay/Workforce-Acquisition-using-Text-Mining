@@ -1,5 +1,9 @@
 # Workforce-Acquisition-using-Text-Mining
 
+# Dataset -
+Job Description dataset scraped from Amazon.jobs.
+Resume Dataset downloaded from Kaggle.
+
 # Web Scraping - 
 Using **Selenium** as the automation tool, I created my own dataset by scraping job descriptions from **Amazon.jobs**. The XPATH technique was used to navigate through the different jobs in all the web pages.
 
