@@ -8,8 +8,8 @@ from collections import Counter
 
 st.title("Resume Screening System")
 
-resume_df = pd.read_csv(r"C:\Users\dsingh38\Downloads\Resume.csv", encoding="unicode_escape")
-jobdesc_df = pd.read_csv(r"C:\Users\dsingh38\Downloads\JobDesc.csv", encoding="unicode_escape")
+resume_df = pd.read_csv(r"Resume.csv", encoding="unicode_escape")
+jobdesc_df = pd.read_csv(r"JobDesc.csv", encoding="unicode_escape")
 
 
 
